@@ -1,16 +1,37 @@
-# task
+🌳 Tree Journal App  
+A visually stunning, lightweight Flutter app for documenting trees and nature, allowing users to attach images and a profile picture to journal entries. Designed with a nature-inspired aesthetic for a serene user experience.  
 
-A new Flutter project.
+Built as a personal Flutter learning project and a school assignment.  
 
-## Getting Started
+*Features*  
+📝 *Journal Entries*  
+Create entries with a title, body, and multiple attached images.  
 
-This project is a starting point for a Flutter application.
+🌿 *Nature-Inspired Design*  
+Immerses users in a calming, nature-like experience with beautiful backgrounds and visuals.  
 
-A few resources to get you started if this is your first Flutter project:
+❤ *Like Feature*  
+Toggle a heart button to like entries.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🖼 *Profile Picture*  
+Upload a profile image displayed in the top-right corner of the home screen.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📸 *Multi-Image Selection*  
+Select and showcase multiple images for each journal entry.  
+
+*Technologies*  
+- Flutter (UI Framework)  
+- Dart (Programming Language)  
+- Provider (State Management)  
+- Image Picker (Device Image Selection)  
+
+*How It Works*  
+1. Launch the app on the MyHomePage screen.  
+2. Tap the + Floating Action Button to create a new entry.  
+3. On the entry screen:  
+   - Add a title and body.  
+   - Select multiple images.  
+   - Choose a profile image (the first image selected becomes the profile picture).  
+4. Save the entry to view it with all images and the profile picture on the home screen.
+
+https://github.com/user-attachments/assets/1313a34d-aa4e-4863-97a5-fd045247ea13
