@@ -1,3 +1,6 @@
+Ahmed Samir Mohamed
+20230554794
+
 🌳 Tree Journal App  
 A visually stunning, lightweight Flutter app for documenting trees and nature, allowing users to attach images and a profile picture to journal entries. Designed with a nature-inspired aesthetic for a serene user experience.  
 
