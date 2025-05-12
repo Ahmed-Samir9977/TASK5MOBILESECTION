@@ -37,4 +37,8 @@ Select and showcase multiple images for each journal entry.
    - Choose a profile image (the first image selected becomes the profile picture).  
 4. Save the entry to view it with all images and the profile picture on the home screen.
 
-https://github.com/user-attachments/assets/1313a34d-aa4e-4863-97a5-fd045247ea13
+
+
+https://github.com/user-attachments/assets/1abe6fb9-1ac4-408d-98ab-dd88057efb55
+
+
